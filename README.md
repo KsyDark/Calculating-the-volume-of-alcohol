@@ -45,3 +45,6 @@ How the formula works:
 4) The original alcohol volume (a) is subtracted from this result to get the amount of water to be added.
 
 Thus, the result of the calculation will show how many milliliters of water need to be added to the original volume of alcohol to reach the desired concentration.
+
+![image](https://github.com/KsyDark/Calculating-the-volume-of-alcohol/assets/57113088/e916e006-2a32-454d-88ca-62c03c52d2bd)
+
